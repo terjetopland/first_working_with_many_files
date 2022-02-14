@@ -1,0 +1,15 @@
+# ninja log v5
+2	1323	6665658300067175	build.ninja	468eb73a42060d93
+3	547	6665309719467717	CMakeFiles/assignment_2_1.dir/main.cpp.obj	b6af3bf470514861
+24	880	6665306555515583	CMakeFiles/assignment_2_1.dir/TestResult.cpp.obj	d85a821bcd251adf
+526	996	6664667105958436	assignment_2_1.exe	3227168629284f0d
+7	830	6659335571266325	CMakeFiles/assignment_2_1.dir/functionMMenu.cpp.obj	dd06453b9d08b54
+35	744	6664666786835639	CMakeFiles/assignment_2_1.dir/student.cpp.obj	45ed8ce59711e9f9
+6	525	6664667101455731	CMakeFiles/assignment_2_1.dir/Test.cpp.obj	2d5fab4c48064d05
+21	1003	6665309724017661	CMakeFiles/assignment_2_1.dir/StudentCourseProgram.cpp.obj	2c74dee61241fc9
+27	1635	6665676146024744	CMakeFiles/assignment_2_1.dir/TestResult.cpp.obj	d85a821bcd251adf
+41	1729	6665676147137302	CMakeFiles/assignment_2_1.dir/Test.cpp.obj	2d5fab4c48064d05
+38	1782	6665676147249033	CMakeFiles/assignment_2_1.dir/student.cpp.obj	45ed8ce59711e9f9
+34	1813	6665676148179793	CMakeFiles/assignment_2_1.dir/functionMMenu.cpp.obj	dd06453b9d08b54
+4	2192	6665676152040922	CMakeFiles/assignment_2_1.dir/main.cpp.obj	b6af3bf470514861
+30	2682	6665676157089987	CMakeFiles/assignment_2_1.dir/StudentCourseProgram.cpp.obj	2c74dee61241fc9
